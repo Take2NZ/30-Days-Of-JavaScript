@@ -1,4 +1,4 @@
-const countries = [
+const lotsOfCountries = [
   {
     name: 'Afghanistan',
     capital: 'Kabul',
