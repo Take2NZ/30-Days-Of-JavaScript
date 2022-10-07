@@ -18,3 +18,7 @@ const PI = 3.14              // geometrical constant
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
+
+const myName = 'Kieran'
+const myBoolean = true
+const myDefinition = 

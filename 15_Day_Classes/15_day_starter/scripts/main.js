@@ -103,3 +103,4 @@ console.log(s1.getPersonInfo())
 console.log(s2.saySomething())
 console.log(s2.getFullName())
 console.log(s2.getPersonInfo())
+
