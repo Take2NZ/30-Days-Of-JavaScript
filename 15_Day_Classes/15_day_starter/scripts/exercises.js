@@ -10,6 +10,20 @@ class Animal {
 
 class Dog extends Animal {
     constructor(name, age, color, legs) {
-        
+
     }
 }
+
+class Cat extends Animal {
+    constructor(name, age, color, legs, clawLength) {
+      super(name, age, color, legs)
+      this.clawLength = clawLength
+
+    }
+}
+
+class Statistics {
+    constructor(count, sum, min, max, range, mean, median, mode, variance, standardDeviation, frequencyDistribution)
+}
+
+//unclear what it is asking here
